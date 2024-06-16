@@ -6,7 +6,7 @@ outputs the generated HTML files to the `output` directory.
 
 ## Features
 
-- Processes markdown files and converts them into HTML.
+- Processes markdown (currently supports only test files) files and converts them into HTML.
 - Applies a specified HTML template to the content files.
 - Outputs the generated HTML files to a specified directory.
 - Supports both Windows and Unix-like systems.
