@@ -12,6 +12,8 @@ outputs the generated HTML files to the `output` directory.
 - Supports both Windows and Unix-like systems.
 
 ## Directory Structure
+
+```
 CiS-G/
 ├── content/
 │ └── example.md
@@ -20,6 +22,8 @@ CiS-G/
 ├── output/
 ├── ssg.c
 └── README.md
+```
+
 ## Building and Running
 
 ### Prerequisites
