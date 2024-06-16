@@ -107,15 +107,7 @@ Paragraph: This book was an excellent journey through the world of C programming
 
 This project is licensed under the MIT License.
 
-### Explanation
-
-1. **Project Introduction**: Briefly explains what the project is and its main features.
-2. **Directory Structure**: Shows an example directory layout.
-3. **Building and Running**: Provides commands to build and run the project.
-4. **Example Content and Template**: Provides example markdown and HTML template files.
-5. **Inline Styles**: The HTML template includes inline CSS for styling.
-
-### Sample Content File and Template
+## Sample Content File and Template
 
 The content and template provided in the README are designed to work together. When you run `./ssg content templates output`, 
 the markdown content will be embedded into the HTML template, resulting in styled HTML output. 
